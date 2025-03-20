@@ -1,7 +1,7 @@
 # CognifyZTech_Level1_Task3
 𝐋𝐞𝐯𝐞𝐥 1: 𝐓𝐚𝐬𝐤 3 - Geospatial Analysis
 
- 𝐓𝐚𝐬𝐤: 
+ # 𝐓𝐚𝐬𝐤: 
  
  📌 Visualize the locations of restaurants on a map using latitude and longitude.
  
