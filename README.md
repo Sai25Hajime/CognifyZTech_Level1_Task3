@@ -2,8 +2,11 @@
 𝐋𝐞𝐯𝐞𝐥 1: 𝐓𝐚𝐬𝐤 3 - Geospatial Analysis
 
  𝐓𝐚𝐬𝐤: 
+ 
  📌 Visualize the locations of restaurants on a map using latitude and longitude.
+ 
  📌 Analyze the distribution of restaurants across different cities/countries.
+ 
  📌 Determine if there is any correlation between the restaurant's location and its rating.
 
 # 𝐖𝐡𝐚𝐭 𝐈 𝐝𝐢𝐝:
